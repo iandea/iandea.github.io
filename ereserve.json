@@ -1,0 +1,8 @@
+{
+    "api": {
+        "url": "https://bny.qa.emsplayground.com/platform"
+    },
+    "authentication": {
+        "activities": "saml"
+    }
+}
