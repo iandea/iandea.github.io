@@ -1,6 +1,6 @@
 {
     "api": {
-        "url": "https://bny.qa.emsplayground.com/platform"
+        "url": "https://ereserve.qa.acml.com/EmsPlatform"
     },
     "authentication": {
         "activities": "saml"
